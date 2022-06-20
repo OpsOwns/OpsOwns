@@ -27,7 +27,7 @@
   ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
 - 🛢 &nbsp;
   ![RabitMq](https://img.shields.io/badge/Rabbitmq-333333?&style=flat&logo=rabbitmq)
-  ![Sql-server](https://img.shields.io/badge/SqlServer-333333?style=flat&logo=microsoft-sql-server&logoColor=white)
+  ![Sql-server](https://img.shields.io/badge/microsoftsqlserver-333333?style=flat&logo=microsoft-sql-server&logoColor=white)
   ![CosmosDb](https://img.shields.io/badge/CosmosDB-333333?style=flat&logo=cosmosdb&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
