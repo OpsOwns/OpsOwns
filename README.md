@@ -18,8 +18,8 @@
 
 - 💻 &nbsp;
   ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp)
-  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net)
-  ![Azure](https://img.shields.io/badge/azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+  ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net)
+  ![Azure](https://img.shields.io/badge/azure-333333?style=flat&logo=microsoft-azure&logoColor=white)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
