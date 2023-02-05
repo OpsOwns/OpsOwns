@@ -26,6 +26,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
+  ![React](https://shields.io/badge/React-333333?logo=React&style=for-the-badge%22)
 - 🛢 &nbsp;
   ![RabitMq](https://img.shields.io/badge/Rabbitmq-333333?&style=flat&logo=rabbitmq)
   ![Sql-server](https://img.shields.io/badge/microsoftsqlserver-333333?style=flat&logo=microsoft-sql-server&logoColor=white)
