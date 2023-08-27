@@ -9,7 +9,7 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
   - 💼 &nbsp; I’m currently working as backend developer.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement mostly focused on React.
   - ✍️ &nbsp; Pursuing Competitive Programming.  
 </div> 
 </div>
