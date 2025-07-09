@@ -1,9 +1,6 @@
 <h1 align="center">Hey there! I'm Krzysztof 👋 </h1>
 <h3 align="center">🚀 Backend Developer  🚀</h3>
-<div>
-<img width = "50%" align="right" alt="PIC" height="50%" src="https://user-images.githubusercontent.com/25839864/174538500-01c395c1-bd64-4950-b40e-39d4ba2df63b.jpg"
-/>
-<div align="left"> 
+
 
   <h3> 👨🏻‍💻 About Me </h3>
 
